@@ -1,0 +1,5 @@
+PC001,Laptop Acer,Acer,Intel i5, 8GB RAM, 256GB SSD,1200.0,In stock
+PC002,Desktop Dell,Dell,Intel i7, 16GB RAM, 1TB HDD,1500.0,Out of stock
+PC003,Macbook Pro,Apple,Intel i9, 16GB RAM, 512GB SSD,2500.0,In stock
+PC004,Lenovo ThinkPad,Lenovo,Intel i5, 8GB RAM, 256GB SSD,1100.0,In stock
+PC005,Asus ROG,Asus,AMD Ryzen 7, 16GB RAM, 1TB SSD,1800.0,Out of stock
