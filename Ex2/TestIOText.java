@@ -7,13 +7,7 @@ public class TestIOText {
     private static final String FILE_NAME = "list_song.txt";
 
     //Tạo 1 mảng chuỗi
-    private static final String[] arraySong = {
-            "Hello California",
-            "We don’t talk any more",
-            "Nắng ấm xa dần",
-            "Em của ngày hôm qua",
-            "Thất tình"
-    };
+    private static final String[] arraySong = {"Hello California", "We don’t talk any more", "Nắng ấm xa dần", "Em của ngày hôm qua", "Thất tình"};
 
     // Viết hàm writeDataToFileWithFileWriter()
     public static void writeDataToFileWithFileWriter() {
